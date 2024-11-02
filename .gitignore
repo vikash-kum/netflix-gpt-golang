@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+/_obj/
+/_bin/
+
+# Testing
+*.test
+
+# Go workspace
+*.out
+
+# Dependency directories (for vendoring tools like Godep, dep)
+vendor/
+
+# Logs and debugging
+*.log
+
+# Environment files
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
